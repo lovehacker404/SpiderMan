@@ -92,7 +92,7 @@ def siapa():
 		
 def loginSC():
 	os.system('clear')
-	print" "\033[1;97mSilahkan login SC nya dulu...jika tidak tau username dan passswordnya tanyakan pada si pembuat...! \n"
+	print "\033[1;97mSilahkan login SC nya dulu...jika tidak tau username dan passswordnya tanyakan pada si pembuat...! \n"
 	username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
 	if username =="love" and password =="hacker":
@@ -114,13 +114,13 @@ def login():
 		print logo
 		print 42*"\033[1;96m="
 		print('\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•
-\033[1;96m:•◈•╔╗─────────╔╗───────╔╗
-\033[1;96m:•◈•║║─────────║║───────║║
-\033[1;96m:•◈•║║╔══╦╗╔╦══╣╚═╦══╦══╣║╔╦══╦═╗
-\033[1;96m:•◈•║║║╔╗║╚╝║║═╣╔╗║╔╗║╔═╣╚╝╣║═╣╔╝   
-\033[1;96m:•◈•║╚╣╚╝╠╗╔╣║═╣║║║╔╗║╚═╣╔╗╣║═╣║    
-\033[1;96m:•◈•╚═╩══╝╚╝╚══╩╝╚╩╝╚╩══╩╝╚╩══╩╝
-\033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•' )
+		      \033[1;96m:•◈•╔╗─────────╔╗───────╔╗
+			   \033[1;96m:•◈•║║─────────║║───────║║
+				\033[1;96m:•◈•║║╔══╦╗╔╦══╣╚═╦══╦══╣║╔╦══╦═╗
+				     \033[1;96m:•◈•║║║╔╗║╚╝║║═╣╔╗║╔╗║╔═╣╚╝╣║═╣╔╝   
+					  \033[1;96m:•◈•║╚╣╚╝╠╗╔╣║═╣║║║╔╗║╚═╣╔╗╣║═╣║    
+					       \033[1;96m:•◈•╚═╩══╝╚╝╚══╩╝╚╩╝╚╩══╩╝╚╩══╩╝
+						    \033[1;97m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•' )
                 print('\033[1;96m[☆] \x1b[1;93mLOGIN login FACEBOOK Acount \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[1;93mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
